@@ -16,3 +16,8 @@ void input() {  // Prosedur untuk input
         }
     }
 }
+cout << endl;
+cout ,, "======================" << endl;
+cout << "Masukkan elemen array" << endl;
+cout << "======================" << endl;
+
